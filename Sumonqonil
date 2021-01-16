@@ -1,0 +1,8 @@
+# qonil
+pkg upgrade 
+pkg install git
+pip install requests 
+pip2 install mechanize 
+git clone https://github.com/qonilsumon
+cd
+python2.py
